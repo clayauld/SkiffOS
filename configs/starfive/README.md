@@ -96,7 +96,7 @@ with the ones compiled by Buildroot:
 
  1. Follow the Flashing the bootloader steps through step 8.
  2. Enter "root@s5t" instead of "0"
- 3. Press 0 and send the bootloader-BEAGLEV-buildroot.bin.out file.
+ 3. Press 0 and send the bootloader-JH7100-buildroot.bin.out file.
  4. Press 1 and send the ddrinit-2133-buildroot.bin.out
 
 Note: if this process fails, you will need to use a recovery process with a
